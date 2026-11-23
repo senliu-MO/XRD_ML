@@ -6,7 +6,7 @@ Author: Zhao Zhang
 Date: 2026
 Description:
     This script loads raw XRD txt data, performs multi-peak Voigt fitting,
-    calculates phase fraction, crystallite size (Scherrer equation), microstrain,
+    calculates phase fraction, GPR, BRR, Algorithm results
     exports fitted figures (1200 dpi PNG + vector PDF) and summary table (CSV).
 Raw XRD data: txt files stored in folder "xrd_data/"
 Output: Figures and CSV summary table saved in folder "DATA/"
